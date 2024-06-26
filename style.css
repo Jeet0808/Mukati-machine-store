@@ -53,7 +53,8 @@ body{
         position: relative;
         bottom: 8px;
         right: 8px;
-        width: 1000px;
+        width: 30rem
+        ;
         box-sizing: border-box;
         font-size: xx-large;
     }
