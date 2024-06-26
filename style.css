@@ -53,7 +53,7 @@ body{
         position: relative;
         bottom: 8px;
         right: 8px;
-        width: 22rem
+        width: 25rem
         ;
         box-sizing: border-box;
         font-size: xx-large;
@@ -262,7 +262,7 @@ body{
         
         width: 20rem;
         left: -8px;
-        bottom: px;
+    top:5px;
         
     }
     .hero-item2{
