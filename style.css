@@ -54,8 +54,6 @@ body{
         bottom: 8px;
         right: 8px;
         width: 420px;
-        
-        ;
         box-sizing: border-box;
         font-size: xx-large;
     }
@@ -246,7 +244,7 @@ body{
    position: relative;
    color:  rgb(22,100,132);
     background-size: cover;
-    bottom: 25px;
+    bottom: 30px;
     width: 101.5%;
     left: -8px;
     display: flex;
@@ -261,9 +259,9 @@ body{
        color:  rgb(22,100,132);
         background-size: cover;
         
-        width: 20rem;
+        width: 420px;
         left: -8px;
-    top:5px;
+        bottom: 10px;
         
     }
     .hero-item2{
@@ -620,7 +618,7 @@ body{
     .nav-search{
         position: relative;
         height: 40px;
-        width: 200px;
+        width: 250px;
         top: 0px;
       margin: 0%;
       padding: 0%;
@@ -632,7 +630,7 @@ body{
     .search-input{
         position: relative;
         height: 35px;
-        width: 160px;
+        width: 200px;
         bottom: 5px;
         border-radius: 1rem;
         box-shadow: 5px 5px 7px rgba(19, 28, 61, 0.6);
@@ -675,7 +673,7 @@ body{
         
     .end{
         height: 200px;
-        width: 20rem;
+        width: 420px;
         background-color: rgb(255, 255, 255);
         color: rgb(22,100,132);
         position: relative;
@@ -694,7 +692,7 @@ body{
         position: absolute;
         height: 50px;
         width: 120px;
-        left: 111px;
+        left: 130px;
         top: 1300px;
         
     }
@@ -705,7 +703,7 @@ body{
         display: flex;
         justify-content: space-evenly;
         left: 7px;
-        width: 6rem;
+        width: 120px;
     }
     .he{
         position: relative;
@@ -716,7 +714,7 @@ body{
             color:  rgb(22,100,132);
              background-size: cover;
              bottom: 7px;
-             width: 20rem;
+             width: 240px;
              right: 50px;
              display: flex;
              justify-content: space-evenly;
@@ -735,7 +733,7 @@ body{
         top: 8.5rem;
         color: rgb(22,100,132);
     
-        font-size: 10px;
+        font-size: 15px;
         
        
     }
@@ -744,7 +742,7 @@ body{
         display: flex;
     justify-content:space-evenly;
     height: 10rem;
-    width: 17rem;
+    width: 100px;
   
     bottom: 400px;
     position: relative;
@@ -772,7 +770,7 @@ body{
 
     .heromid{
         height: 200px;
-        width: 18rem;
+        width: 420px;
         display: flex;
         left: 30px;
         position: relative;
@@ -793,7 +791,7 @@ body{
          position: relative; 
          top: 250px;
               background-image: url(product333.png); 
-              width: 60%;
+              width: 200px;
               box-shadow: 5px 5px 7px rgba(19, 28, 61, 0.6);
               background-size: cover;
         
@@ -817,7 +815,7 @@ body{
           position: relative; 
           top: 420px;
                background-image: url(farm88.jpg) ;
-               width: 60%;
+               width: 200px;
                box-shadow: 5px 5px 7px rgba(19, 28, 61, 0.6);
 
                background-size: cover;
@@ -825,7 +823,7 @@ body{
       }
 
      .hero-item2{
-        width: 18rem;
+        width: 100px;
         position: relative;
         top: 300px;
         right: 5px;
@@ -884,7 +882,7 @@ body{
     }
 
 
-    .ab-hero-cont{
+    .ab-hero-cont1{
         height: 40px;
         width: 20rem;
         background-color: rgb(176, 195, 188);
@@ -898,16 +896,16 @@ body{
        text-align: center;
        justify-content: center;
       margin-top: 45px;
-      top: 333px;
+      top: 330px;
       
     }
-    .ab-hero-cont h3{
+    .ab-hero-cont1 h3{
     
         font-size: xx-large;
         position: relative;
         bottom: 20px;
     }
-    .ab-hero-cont h4{
+    .ab-hero-cont1 h4{
         font-size: xx-small;
         position: relative;
         top: 22px;
@@ -928,7 +926,8 @@ body{
        text-align: center;
        justify-content: center;
       margin-top: 45px;
-      top: 324px;
+      top: 320px;
+      left: 20px;
       
     }
     .ab-hero-cont2 h3{
@@ -940,7 +939,7 @@ body{
     .ab-hero-cont2 h4{
         font-size: xx-small;
         position: relative;
-        top: 18px;
+        top: 15px;
         left: 10px;
     }
     
